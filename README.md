@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handersoncoq
-- 👀 I’m interested in sql and python codes
-- 🌱 I’m currently learning sql and python
+- 👀 I’m interested in R, sql and python codes
+- 🌱 I’m currently learning R, sql and python
 - 💞️ I’m looking to collaborate on anything sql or python
 - 📫 How to reach me: coqhandersonth@gmail.com
 
