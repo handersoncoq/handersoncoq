@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @handersoncoq
-- 👀 I’m interested in R, sql and python codes
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in Java, R, sql and python codes
 - 💞️ I’m looking to collaborate on anything Java, R or SQL
 - 📫 How to reach me: coqhandersonth@gmail.com
 
