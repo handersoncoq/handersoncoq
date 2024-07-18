@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handersoncoq
-- 👀 I’m interested in Java, R, sql and python codes
-- 💞️ I’m looking to collaborate on anything Java, R or SQL
+- 👀 I’m interested in Java, R, sql, SpringBoot, JavaScript/TypeScript, and python codes
+- 💞️ I’m looking to collaborate on anything Java/SpringBoot
 - 📫 How to reach me: coqhandersonth@gmail.com
 
 <!---
